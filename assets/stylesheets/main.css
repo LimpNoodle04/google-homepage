@@ -42,7 +42,18 @@ table{
   border-spacing: 0;
 }
 
+.logo-horizontal{
 
+}
+.logo-div{
+  background-color: green;
+}
+.logo{
+  width: 35%;
+  display: block;
+  margin: 5px auto;
+
+}
 
 body{
   font-size: 14px;
@@ -52,7 +63,6 @@ ul
   {
   list-style-type: none;
   padding-top: 15px;
-  padding-bottom: 40px;
 }
 li{
   display: inline;

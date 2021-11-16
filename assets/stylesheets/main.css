@@ -26,6 +26,10 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
+.right-nav{
+  float: right;
+
+}
 ol, ul {
   list-style: none;
 }
@@ -46,12 +50,14 @@ table{
 
 }
 .logo-div{
-  background-color: green;
+  background-color: ;
+  padding-top: 176px;
+  text-align: center;
 }
 .logo{
-  width: 35%;
+  width: 20%;
   display: block;
-  margin: 5px auto;
+  margin: 0px auto;
 
 }
 
